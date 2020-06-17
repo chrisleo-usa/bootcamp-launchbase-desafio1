@@ -3,7 +3,13 @@
 
 ### Calcula IMC
 Neste desafio montei uma função que calcula o IMC de uma pessoa. Basta chamar a função e adicionar as informações conforme estão os parâmetros (nome, peso, altura) da função.  
-Lembrando que o nome dele ser colocado em formato 'string'. 
+Lembrando que o nome dele ser colocado em formato 'string'.
+
+EXEMPLO:
+`calculaImc('Flavio', 83, 1.86);`
+Então flávio tem 83kg e 1.86 de altura. 
+Caso o IMC calculado de Flávio seja maior ou igual a 30, será exibido a mensagem `${nome} você está acima do peso!`, caso contrário `${nome} você NÃO está acima do peso!`. 
+
 
 
 ### Calculo de Aposentadoria
